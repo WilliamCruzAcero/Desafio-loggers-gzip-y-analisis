@@ -1,0 +1,5 @@
+{"level":"info","message":"Operación exítosa: Resultado suma: 13"}
+{"level":"warn","message":"Valor de tipo incorrecto (a: Int, y b: Int)"}
+{"level":"warn","message":"Ruta no encontrada /resta"}
+{"level":"warn","message":"Ruta no encontrada /divicion"}
+{"level":"error","message":"Ocurrio un error al iniciar el server: Error: listen EADDRINUSE: address already in use :::8080"}
